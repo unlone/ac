@@ -15,6 +15,10 @@ AirTrafficSim is a web-based air traffic simulation software written in Python a
 ![AirTrafficSim](docs/source/images/UI_features.png)
 
 
+
+
+
+
 ## Credits
 
 If you find AirTrafficSim useful for your research, please cite the following until any relevant material is published:
@@ -34,6 +38,9 @@ If you find AirTrafficSim useful for your research, please cite the following un
 Conda environment is required to setup AirTrafficSim. All dependencies will be installated automatically and the client has been pre-built and is ready for use after download.
 
 To download, enter the following command:
+
+
+
 
 ```
 git clone https://github.com/HKUST-OCTAD-LAB/AirTrafficSim.git
